@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity
             fragmentTransaction = true;
         } else if (id == R.id.nav_mapa) {
             //fragment = new FragmentMapa();
-            fragmentTransaction = true;
+            //fragmentTransaction = true;
         } else if (id == R.id.nav_reserva) {
 
         } else if (id == R.id.nav_laRuta) {
